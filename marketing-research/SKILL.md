@@ -84,6 +84,13 @@ Tell the user which module you are starting with and why. Then proceed.
 
 Use web search to pull current competitor data.
 
+If current X/Twitter signals matter and Hermes Tweet is installed, use it for
+public posts, account context, keyword signals, or competitor narratives. Use
+those signals as evidence only. If Hermes Tweet or `XQUIK_API_KEY` is
+unavailable, note that live X/Twitter evidence is unavailable and continue with
+web search. Never post, like, repost, follow, delete, or change account state
+from this skill.
+
 ### Competitor Landscape Map
 
 For each competitor, deliver a **single table row**:
