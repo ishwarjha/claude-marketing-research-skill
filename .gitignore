@@ -17,3 +17,6 @@ Thumbs.db
 __pycache__/
 *.pyc
 .env
+
+# Plugin session state (auto-generated)
+.learnings/
